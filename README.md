@@ -1,16 +1,16 @@
-# COVID-19 App
+# COVID-19 App :microscope:
 This app is meant to help infrom you about the Covid-19 pandemic, and give you
 usefull information to assist you in these troubling times. Stay safe and
 connected using this appliation.
 
-## About
+## About :eyes:
 
 This is your go to handy little guide and helper for everything related 
 to Coronovirus. It’s meant to help reduce stress and anxiety during the 
 pandemic by giving you a convenient and pain-free way of staying informed 
 and in good health.
 
-## Features
+## Features :books:
 
 - COVID-19 statistics for your community
 - Important, recent and breaking news feed
@@ -20,11 +20,11 @@ and in good health.
 - Request Help from support personell
 - Clean and modern user interface
 
-## Prototype
+## Prototype :iphone:
 
 ![Design Mockup](./prototype.PNG)
 
-## Future Planning
+## Future Planning :calendar:
 
 For the future we would like to include some of the following desirable
 functionalities. We couldn't find these functionalities in the top 5 apps
