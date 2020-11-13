@@ -22,7 +22,7 @@ and in good health.
 
 ## Prototype
 
-![Design Mockup](./prototype.png)
+![Design Mockup](./prototype.PNG)
 
 ## Future Planning
 
